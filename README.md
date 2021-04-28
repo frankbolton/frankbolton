@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on wrapping up my PhD thesis 
+- 🌱 I’m currently learning Machine Learning applied to biosignal classification problems
+- 😄 Pronouns: he/him
+
+
+
 <!--
 **frankbolton/frankbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
