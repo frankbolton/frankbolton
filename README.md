@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on wrapping up my PhD thesis 
 - 🌱 I’m currently learning Machine Learning applied to biosignal classification problems
+- 📫 website [https://frankbolton.github.io/](https://frankbolton.github.io/)
+
 - 😄 Pronouns: he/him
+
 
 
 
