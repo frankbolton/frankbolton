@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m recently compted my PhD at Tel Aviv University 
+- 🔭 I recently compted my PhD at Tel Aviv University 
 - 👯 I’m looking to collaborate on a tool to help people find people find appointments to renew [Israeli passports (github project)](https://github.com/frankbolton/IsraelPassportBooking)
+- 📫 website [https://frankbolton.github.io/](https://frankbolton.github.io/)
 
 
 
