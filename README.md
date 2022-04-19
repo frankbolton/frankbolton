@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I recently compted my PhD at Tel Aviv University 
-- 👯 I’m looking to collaborate on a tool to help people find people find appointments to renew [Israeli passports (github project)](https://github.com/frankbolton/IsraelPassportBooking)
-- 📫 website [https://frankbolton.github.io/](https://frankbolton.github.io/)
+- 🔭 I recently completed my PhD in Human Computer Interaction at Tel Aviv University. 
+- ⚡ Relocating to the UK soon. Open to interesting offers for roles in data science or biomedical engineering either between Sheffield and Nottingham or global remote-friendly. 
+- 💬 Ask me about rapidly developing hardware, software and methods to gather good data and provide results with minimal engineering effort. 
+- ✨ Got frustrated with Israel passport bookings in January 2022, so I reverse engineered the web app API calls and made a simple tool for software minded people to scrape the nearest available bookings [https://github.com/frankbolton/IsraelPassportBooking](https://github.com/frankbolton/IsraelPassportBooking). Functionality has been duplicated elsewhere: [https://github.com/TomerYakir/passportAppointmentFinder](Tomer's implementation) and [https://www.geektime.co.il/israeli-developer-created-a-bot-for-passport-renewal-in-myvisit/](Geektime news). 
 
-
+Key skills include data analytics and data science, biomedical and electronic R&D, and the professional written and spoken communication that comes with doctoral studies.    
 
 
 <!--
